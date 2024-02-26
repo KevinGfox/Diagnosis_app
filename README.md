@@ -21,19 +21,13 @@ Welcome to the Symptom Checker and Diagnosis App! This application provides a qu
 4. Click the "Submit" button to get a diagnosis and, if available, more information about the disease.
 
 ## Dependencies
-- Streamlit
-- Huggingface
-- Transformers
-- Pandas
-- OpenAI
-- TensorFlow
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-0.0.0-brightgreen)](https://streamlit.io/)
-[![Transformers](https://img.shields.io/badge/Transformers-4.0.0-blue)](https://huggingface.co/transformers/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.2.0-blue)](https://pandas.pydata.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-v0.27.0-blue)](https://openai.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-🤗-brightgreen)](https://huggingface.co/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-orange)](https://www.tensorflow.org/)
+- [![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-brightgreen)](https://streamlit.io/)
+- [![Transformers](https://img.shields.io/badge/Transformers-4.32.1-blue)](https://huggingface.co/transformers/)
+- [![Pandas](https://img.shields.io/badge/Pandas-2.0.3-blue)](https://pandas.pydata.org/)
+- [![OpenAI](https://img.shields.io/badge/OpenAI-v1.7.0-blue)](https://openai.com/)
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-🤗-brightgreen)](https://huggingface.co/)
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.9.1-orange)](https://www.tensorflow.org/)
 
 
 ## Model Details
