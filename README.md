@@ -1,5 +1,10 @@
 # Symptom Checker and Diagnosis App
 
+<div id="header" align="center">
+  <img src="files/symptom.webp" width="300" height="200"/>
+</div>
+
+
 <img src='files/symptom.webp'>
 
 ## Overview
