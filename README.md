@@ -4,9 +4,6 @@
   <img src="files/symptom.webp" width="450" height="400"/>
 </div>
 
-
-<img src='files/symptom.webp'>
-
 ## Overview
 Welcome to the Symptom Checker and Diagnosis App! This application provides a quick diagnosis based on the symptoms you input. It utilizes a fine-tuned model based on the bert-base-cased architecture, specifically designed for text classification tasks associated with diagnosing diseases based on symptoms.
 
