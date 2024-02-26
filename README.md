@@ -1,7 +1,7 @@
 # Symptom Checker and Diagnosis App
 
 <div id="header" align="center">
-  <img src="files/symptom.webp" width="300" height="200"/>
+  <img src="files/symptom.webp" width="400" height="400"/>
 </div>
 
 
