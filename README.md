@@ -1,11 +1,11 @@
-# Symptom Checker and Diagnosis App
+# Diagnosis App
 
 <div id="header" align="center">
   <img src="files/symptom.webp" width="450" height="400"/>
 </div>
 
 ## Overview
-Welcome to the Symptom Checker and Diagnosis App! This application provides a quick diagnosis based on the symptoms you input. It utilizes a fine-tuned model based on the bert-base-cased architecture, specifically designed for text classification tasks associated with diagnosing diseases based on symptoms.
+Welcome to the Diagnosis App! This application provides a quick diagnosis based on the symptoms you input. It utilizes a fine-tuned model based on the bert-base-cased architecture, specifically designed for text classification tasks associated with diagnosing diseases based on symptoms.
 
 ## Features
 - **Symptom Input**: Enter your symptoms in the provided text area, and the app will provide a diagnosis and useful advice.
