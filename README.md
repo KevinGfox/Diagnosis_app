@@ -1,5 +1,7 @@
 # Symptom Checker and Diagnosis App
 
+<img src='files/symptom.webp'>
+
 ## Overview
 Welcome to the Symptom Checker and Diagnosis App! This application provides a quick diagnosis based on the symptoms you input. It utilizes a fine-tuned model based on the bert-base-cased architecture, specifically designed for text classification tasks associated with diagnosing diseases based on symptoms.
 
@@ -43,7 +45,14 @@ Welcome to the Symptom Checker and Diagnosis App! This application provides a qu
 **Kevin GOUPIL**
 - [LinkedIn](https://www.linkedin.com/in/kevin-goupil/)
 
-We, a dynamic duo of data scientists, bring a unique blend of expertise to our projects. Our passion and commitment drive us to showcase and elevate our capabilities through innovative and impactful initiatives in the world of data science.
+We are dynamic duo of data scientists, bring a unique blend of expertise to our projects. Our passion and commitment drive us to showcase and elevate our capabilities through innovative and impactful initiatives in the world of data science.
+
+## Notebooks
+
+You can find the different notebooks for our project
+- Colab_Bert
+- Colab_EDA
+- Colab_huggingface_deployement
 
 ## Model Performance Metrics
 For detailed performance metrics, refer to the "Model Details & Evaluations" tab within the app.

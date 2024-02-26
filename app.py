@@ -57,7 +57,7 @@ def main():
     active_tab = st.sidebar.radio("Select Tab", tabs)
     if active_tab == "Home":
         st.header("Symptom Checker and Diagnosis App", divider = 'violet')
-        image_path = "symptom.webp"
+        image_path = "files/symptom.webp"
         col1, col2 = st.columns(2)
         with col1:
             st.image(image_path, use_column_width='auto')
